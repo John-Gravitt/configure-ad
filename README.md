@@ -3,7 +3,7 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Part-1)</h1>
-This project documents my lab practice for my CourseCareers IT Professional certification course covering the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This project documents my lab practice for the CourseCareers IT Professional certification course covering the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
 <h2>Environments and Technologies Used</h2>
